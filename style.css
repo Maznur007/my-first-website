@@ -1,0 +1,19 @@
+h1{
+
+    font-size: 50px;
+}
+.Taklu{
+
+    color: rgb(21, 255, 0);
+}
+.Hatim{
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding left: 2%;
+}
+
+.Hatim img{
+    width: 100%;
+}
