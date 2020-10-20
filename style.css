@@ -27,6 +27,7 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 .Link-button{
 text-decoration: none;
@@ -36,4 +37,55 @@ border-radius: 5px;
 font-weight: 700;
 padding: 10px 20px;
 
+}
+h2{
+    font-size: 50px;
+}
+h4{
+
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+
+}
+.Dream-Area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+
+}
+.Bal{
+    color: blueviolet;
+
+}
+.Na{
+    box-shadow: 10px 10px 40px gray;  
+    border-radius: 7px;
+    height: 80%;
+    background-color: white;
+    padding-left: 2%;
+    
+
+}
+.Ex-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin: 1%;
+}
+#Ha{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#Ba{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+
+    text-align: center;
+    font size: 10px;
 }
